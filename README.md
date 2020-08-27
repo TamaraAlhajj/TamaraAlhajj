@@ -1,5 +1,5 @@
 ### Hello world 👋
-# I'm a software engineer specialized in web development
+# I'm a web developer
 
 🔭 Here are a few technologies I've been working with recently:
 
