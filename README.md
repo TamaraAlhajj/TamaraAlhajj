@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello world 👋
+# I'm a software engineer specialized in web development
 
-<!--
-**TamaraAlhajj/TamaraAlhajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Here are a few technologies I've been working with recently:
 
-Here are some ideas to get you started:
+`JavaScript (ES6+)` `TypeScript` `postgresSQL` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`GraphQL` `HTML & (S)CSS` `React` `Node.js`
+
+🌱 In my free time currently learning [Computer Vision with Python](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/)
+
+---
+This GitHub profile showcases my personal projects. All work done at a company was done within their private repos. If you would like more details on my experience feel free to reach out. My inbox is always open!
+📫 Reach me at tamara.kunnanath@gmail.com
