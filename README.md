@@ -11,6 +11,8 @@
 
 :computer: This GitHub profile showcases my personal projects. You can see some interesting projects pinned below, or take a look through my public repositories.
 
+---
+
 All work done at a company was done within their private repos. If you would like more details on my experience feel free to reach out. My inbox is always open!
 
 📫 Reach me at tamara.kunnanath@gmail.com
