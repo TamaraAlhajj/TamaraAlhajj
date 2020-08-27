@@ -1,5 +1,5 @@
-### Hello world 👋
-# I'm a web developer
+### Hello world 👋🏻
+# I'm a web developer :raising_hand:
 
 🔭 Here are a few technologies I've been working with recently:
 
