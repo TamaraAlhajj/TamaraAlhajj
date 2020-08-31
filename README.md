@@ -3,9 +3,7 @@
 
 🔭 Here are a few technologies I've been working with recently:
 
-`JavaScript (ES6+)` `TypeScript` `postgresSQL` 
-
-`GraphQL` `HTML & (S)CSS` `React` `Node.js`
+`JavaScript (ES6+)` `TypeScript` `postgresSQL` `GraphQL` `HTML & (S)CSS` `React` `Node.js`
 
 :computer: This GitHub profile showcases my personal projects. You can see some interesting projects pinned below, or take a look through my public repositories.
 
