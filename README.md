@@ -1,11 +1,10 @@
 ### Hello world 👋🏻
-# I'm a web developer :raising_hand:
 
-🔭 Here are a few technologies I've been working with recently:
+🔭 I'm a web developer working remotely in Ontario, Canada. Here are a few technologies I've been working with recently:
 
 `JavaScript (ES6+)` `TypeScript` `postgresSQL` `GraphQL` `HTML & (S)CSS` `React` `Node.js`
 
-:computer: This GitHub profile showcases my personal projects. You can see some interesting projects pinned below, or take a look through my public repositories.
+:computer: This GitHub profile showcases my personal projects. You can see some interesting projects pinned below, or take a look through my public repos.
 
 🌱 In my free time I'm currently learning [Computer Vision with Python](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/). With the knowledge I gain from this course, I hope to develop a model that can classify fish species and size.
 
