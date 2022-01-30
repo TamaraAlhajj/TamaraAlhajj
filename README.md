@@ -6,7 +6,7 @@
 
 :computer: This GitHub profile showcases my personal projects. You can see some interesting projects pinned below, or take a look through my public repos.
 
-🌱 For my free time I'm currently enrolled in a udacity Machine Learning nanodegree.
+🌱 For my free time I'm learning data science with BigQuery + SQL.
 
 ---
 
