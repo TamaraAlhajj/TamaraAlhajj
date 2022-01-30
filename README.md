@@ -4,12 +4,12 @@
 
 `JavaScript (ES6+)` `Node.js` `knockoutJS` `Vue` `TypeScript` `mongoDB` `GraphQL` `HTML & (S)CSS` `React`
 
-:computer: This GitHub profile showcases my personal projects. You can see some interesting projects pinned below, or take a look through my public repos.
+:computer: Check out my projects pinned below for all things AI & data science!
 
-🌱 For my free time I'm learning data science with BigQuery + SQL.
+🌱 For my free time I'm learning data science with BigQuery + SQL with [this course](https://www.udemy.com/course/applied-sql-for-data-analytics-data-science-with-bigquery/)
 
 ---
 
-All work done at my employers was done within their private company repos. If you would like more details on my work experience feel free to reach out. My inbox is always open!
+If you would like more details on my work experience feel free to reach out. My inbox is always open!
 
 📫 Reach me at tamara.kunnanath@gmail.com
