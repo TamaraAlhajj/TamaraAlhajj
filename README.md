@@ -6,10 +6,11 @@
 
 :computer: Check out my projects pinned below for my journey into the world of AI & data science!
 
-🌱 For my free time I'm improving my DB skills with these courses
+🌱 Currently, I'm growing my DB skills with these certs
 
-- Data science with [BigQuery + SQL](https://www.udemy.com/course/applied-sql-for-data-analytics-data-science-with-bigquery/)
-- Optimize [MongoDB performance](https://university.mongodb.com/courses/M201/about)
+- [ ] Data science with [BigQuery + SQL](https://www.udemy.com/course/applied-sql-for-data-analytics-data-science-with-bigquery/)
+- [x] Optimize [MongoDB performance](https://university.mongodb.com/courses/M201/about)
+- [ ] Mongo aggregations
 
 ---
 
