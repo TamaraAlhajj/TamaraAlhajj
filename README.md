@@ -10,7 +10,7 @@
 
 - [ ] Data science with [BigQuery + SQL](https://www.udemy.com/course/applied-sql-for-data-analytics-data-science-with-bigquery/)
 - [x] Optimize [MongoDB performance](https://university.mongodb.com/courses/M201/about)
-- [ ] Mongo aggregations
+- [x] Mongo aggregations
 
 ---
 
