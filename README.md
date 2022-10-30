@@ -1,14 +1,10 @@
 ### Hello world 👋🏻
 
-🔭 I'm a full stack web developer working remotely in Prince Edward County, Ontario.
+🌱 I'm a full-stack web developer working remotely from Ontario, Canada.
 
-🌱 Currently, I'm growing my DB skills with these certs
+💻 Check out my professional site and resume for details on my software engineering experience, mainly with SaaS platforms. 
 
-- [ ] Deep dive into [Advanced JS Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
-- [x] Optimize [MongoDB performance](https://university.mongodb.com/courses/M201/about)
-- [x] Mongo aggregations (webinar event)
-
-:robot: If your interested, check out my projects pinned below for my journey into the world of AI & data science!
+🤖 If your interested, check out my projects pinned below for my journey into the world of AI & data science.
 
 ---
 
