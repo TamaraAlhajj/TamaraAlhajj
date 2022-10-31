@@ -4,7 +4,7 @@
 
 💻 Check out my professional site and resume for details on my software engineering experience, mainly with SaaS platforms. 
 
-🤖 If your interested, check out my projects pinned below for my journey into the world of AI & data science.
+🤖 If your interested, check out my projects pinned below for my journey into the world of AI.
 
 ---
 
