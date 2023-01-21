@@ -4,7 +4,7 @@
 
 💻 Check out my professional site and resume for details on my software engineering experience, mainly with SaaS platforms. 
 
-🤖 If you're interested, check out my projects pinned below for my journey into the world of AI.
+🤖 If you're interested, check out my projects pinned below for my journey into the world of AI/ML. Additionally, I'm taking the [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning) to further my learning.
 
 ---
 
