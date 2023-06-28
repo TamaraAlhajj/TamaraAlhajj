@@ -8,4 +8,4 @@
 
 If you would like more details on my work experience feel free to reach out. My inbox is always open!
 
-📫 Reach me at tamara.kunnanath@gmail.com
+📫 Reach me at tamara.alhajj.cs@gmail.com
