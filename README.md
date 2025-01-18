@@ -1,5 +1,3 @@
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
-
 ### Hello world!
 
 I'm a senior software developer currently pursuing a Master's in CS with a specialization in Machine Learning.
